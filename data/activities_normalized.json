@@ -2039,5 +2039,18 @@
     "start_date_local": "2026-05-01T05:45:30Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 10980.8,
+    "elevation_gain": 52.8,
+    "id": "18346435528",
+    "moving_time": 5404.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-02T05:04:30Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
