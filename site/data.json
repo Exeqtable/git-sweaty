@@ -98,6 +98,15 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/23234640288",
       "year": 2026
+    },
+    {
+      "date": "2026-06-18",
+      "hour": 4,
+      "name": "Clark County - Tempo",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/23294276703",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -201,12 +210,21 @@
           "distance": 13129.0,
           "elevation_gain": 30.0,
           "moving_time": 7170.063009262085
+        },
+        "2026-06-18": {
+          "activity_ids": [
+            "23294276703"
+          ],
+          "count": 1,
+          "distance": 6661.85009765625,
+          "elevation_gain": 18.0,
+          "moving_time": 3673.9759826660156
         }
       }
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/2f8c8a58-463b-4a82-8003-4126126cb587",
-  "generated_at": "2026-06-17T18:11:19.533147+00:00",
+  "generated_at": "2026-06-18T17:58:11.666195+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/2f8c8a58-463b-4a82-8003-4126126cb587",
   "repo": "Exeqtable/git-sweaty",
